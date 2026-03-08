@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # Vendor_Freight_And_Invoive_Flagging_ML_Project
 ## 📌 Overview
 This project focuses on building a **Machine Learning pipeline to predict freight costs and detect potentially incorrect vendor invoices**.  
@@ -63,7 +68,26 @@ Vendor_Freight_And_Invoice_Flagging_ML_Project
 - Jupyter Notebook
 
 ---
-
+## Model Pipeline
+```
+Data Collection
+      │
+      ▼
+Data Cleaning & Preprocessing
+      │
+      ▼
+Feature Engineering
+      │
+      ▼
+Model Training
+      │
+      ▼
+Freight Cost Prediction Model
+Invoice Flagging Model
+      │
+      ▼
+Streamlit Deployment
+```
 ## 🔬 Machine Learning Workflow
 
 1. **Data Preprocessing**
